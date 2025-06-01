@@ -12,7 +12,7 @@ public class FiboOfArray
 		int no=sc.nextInt();
 		System.out.println("Enter the numbers :");
 		int[] arr=new int[no];
-		for(int i=0;i<no;i++)
+		for(int i=0;i<2;i++)
 		{
 			arr[i]=sc.nextInt();
 		}
